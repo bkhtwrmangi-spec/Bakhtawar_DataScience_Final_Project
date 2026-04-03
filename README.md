@@ -102,9 +102,11 @@ Solution: Reset index and ensured proper aggregation before plotting.
 📈 Insights
 Revenue is concentrated among a few product lines.
 
-🙌 Acknowledgments
-Special thanks to SoftGrowTech for providing mentorship and guidance during my internship. This project helped me strengthen my skills in data science, visualization, and dashboard development.
-
 Seasonal peaks are visible in monthly sales trends.
 
 Top products contribute disproportionately to overall revenue.
+
+🙌 Acknowledgments
+
+Special thanks to SoftGrowTech for providing mentorship and guidance during my internship. This project helped me strengthen my skills in data science, visualization, and dashboard development.
+
